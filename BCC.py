@@ -63,12 +63,7 @@ oks = []
 id = []
 os.system('clear')
 
-def menu():
-    os.system('clear')
-    time.sleep(2)
-    print '\x1b[32m.'
-    os.system('clear')
-    os.system('figlet PY')
+
 logo = """\033[91m
 \033[93mTELEGRAM CHANEL = KURDISH IT
 YOUTUBE CHANEL = MIRAN BOSS
