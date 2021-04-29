@@ -405,8 +405,8 @@ def action():
 for s in idd.split():
     print s
     if s == sp[0]:
-if __name__ == '__main__':
-    menu()
+       if __name__ == '__main__':
+          menu()
 else:
     os.system('clear')
     os.system('figlet ID ACTIVE')
