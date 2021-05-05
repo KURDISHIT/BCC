@@ -76,7 +76,7 @@ def menu():
     os.system('figlet B C C')
     print '\x1b[1;92m[1]\x1b[1;92m  Iraq'
     print '\x1b[1;95m[2]\x1b[1;92m  Arbil'
-    print '\x1b[1;93m[3]\x1b[1;92m  slemani'
+    print '\x1b[1;94m[3]\x1b[1;92m  slemani'
     print '\n\x1b[1;91m[0]  Exit            '
     print '\x1b[1;92m--------------------------------------------------\n'
     action()
